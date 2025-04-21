@@ -47,7 +47,7 @@ if(uri_string() != "")
   </main>
   <script src="<?= base_url('NiceAdmin/assets/vendor/bootstrap/js/bootstrap.bundle.min.js') ?>"></script>
   <script src="<?= base_url('NiceAdmin/assets/vendor/chart.js/chart.umd.js') ?>"></script>
-  <!-- Template Main JS File -->
+  
   <script src="<?= base_url('NiceAdmin/assets/js/main.js') ?>"></script>
 
 </body>
